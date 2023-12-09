@@ -5,7 +5,7 @@ I'm an Undergraduate student at IIT Bombay.
 [![LinkedIn:shibashis](https://img.shields.io/badge/-shibashis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shibashis-sahoo-484223191)](https://www.linkedin.com/in/shibashis-sahoo-484223191/)
 
 
-- 🌱 I’m currently learning Full Stack Web Development,Hybrid Mobile Application Development, Deep Learning.
+- 🌱 I have Full Stack Web Development, Hybrid Mobile App Development, Deep Learning, DevOps, and Cloud technologies expertise.
 - 🤔 I’m looking for help with procrastination.
 - 💬 Ask me about anything, I am ready to help.
 - 📫 How to reach me: [shiba1874@gmail.com](mailto:shiba1874@gmail.com)
