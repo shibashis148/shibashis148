@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm shibashis!
 
-I'm an Undergraduate student at IIT Bombay.
 
 [![LinkedIn:shibashis](https://img.shields.io/badge/-shibashis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shibashis-sahoo-484223191)](https://www.linkedin.com/in/shibashis-sahoo-484223191/)
 
