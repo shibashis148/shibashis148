@@ -5,9 +5,6 @@
 
 
 - 🌱 I have Full Stack Web Development, Hybrid Mobile App Development, Deep Learning, DevOps, and Cloud technologies expertise.
-- 🤔 I’m looking for help with procrastination.
-- 💬 Ask me about anything, I am ready to help.
-- 📫 How to reach me: [shiba1874@gmail.com](mailto:shiba1874@gmail.com)
  
 
 
